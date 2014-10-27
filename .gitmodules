@@ -1,0 +1,3 @@
+[submodule "app/templates/codeigniter"]
+	path = app/templates/codeigniter
+	url = https://github.com/mihai-scurtu/base-codeigniter.git
