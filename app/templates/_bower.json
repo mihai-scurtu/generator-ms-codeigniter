@@ -1,0 +1,10 @@
+{
+  "name": "my-project",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "bootstrap": "~3.2.0",
+    "modernizr": "~2.8.3"
+  }
+}
+
