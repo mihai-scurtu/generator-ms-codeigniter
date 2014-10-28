@@ -21,8 +21,6 @@ describe('ds-codeigniter:app', function () {
     assert.file([
       'bower.json',
       'package.json',
-      '.editorconfig',
-      '.jshintrc'
     ]);
   });
 });
