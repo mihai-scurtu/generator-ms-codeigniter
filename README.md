@@ -1,4 +1,4 @@
-# generator-ds-codeigniter [![Build Status](https://secure.travis-ci.org/mihai-scurtu/generator-ds-codeigniter.png?branch=master)](https://travis-ci.org/mihai-scurtu/generator-ds-codeigniter)
+# generator-ms-codeigniter [![Build Status](https://secure.travis-ci.org/mihai-scurtu/generator-ms-codeigniter.png?branch=master)](https://travis-ci.org/mihai-scurtu/generator-ms-codeigniter)
 
 > [Yeoman](http://yeoman.io) generator
 
@@ -23,16 +23,16 @@ npm install -g yo
 
 Yeoman travels light. He didn't pack any generators when he moved in. You can think of a generator like a plug-in. You get to choose what type of application you wish to create, such as a Backbone application or even a Chrome extension.
 
-To install generator-ds-codeigniter from npm, run:
+To install generator-ms-codeigniter from npm, run:
 
 ```bash
-npm install -g generator-ds-codeigniter
+npm install -g generator-ms-codeigniter
 ```
 
 Finally, initiate the generator:
 
 ```bash
-yo ds-codeigniter
+yo ms-codeigniter
 ```
 
 ### Getting To Know Yeoman

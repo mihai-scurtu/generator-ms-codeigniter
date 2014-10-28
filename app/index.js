@@ -8,7 +8,7 @@ var exec = require('child_process').exec;
 var async = require('async');
 var fs = require('fs');
 
-var DsCodeigniterGenerator = yeoman.generators.Base.extend({
+var MsCodeigniterGenerator = yeoman.generators.Base.extend({
   init: function() {
     this.copyRecursive = function(src, dest) {
       this.src.recurse(src, function(abspath, rootdir, subdir, filename) {
@@ -27,7 +27,7 @@ var DsCodeigniterGenerator = yeoman.generators.Base.extend({
 
   //   // Have Yeoman greet the user.
   //   this.log(yosay(
-  //     'Welcome to the wondrous DsCodeigniter generator!'
+  //     'Welcome to the wondrous MsCodeigniter generator!'
   //   ));
 
   //   var prompts = [{
@@ -69,4 +69,4 @@ var DsCodeigniterGenerator = yeoman.generators.Base.extend({
   }
 });
 
-module.exports = DsCodeigniterGenerator;
+module.exports = MsCodeigniterGenerator;

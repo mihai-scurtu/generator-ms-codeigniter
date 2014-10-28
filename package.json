@@ -1,10 +1,10 @@
 {
-  "name": "generator-ds-codeigniter",
+  "name": "generator-ms-codeigniter",
   "version": "0.0.0",
   "description": "Yeoman generator",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "mihai-scurtu/generator-ds-codeigniter",
+  "repository": "mihai-scurtu/generator-ms-codeigniter",
   "author": {
     "name": "Mihai Scurtu",
     "email": "mscurtu90@gmail.com",

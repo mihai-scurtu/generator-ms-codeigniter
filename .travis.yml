@@ -3,5 +3,5 @@ node_js:
   - '0.10'
 before_install:
   - currentfolder=${PWD##*/}
-  - if [ "$currentfolder" != 'generator-ds-codeigniter' ]; then cd .. && eval "mv $currentfolder generator-ds-codeigniter" && cd generator-ds-codeigniter; fi
+  - if [ "$currentfolder" != 'generator-ms-codeigniter' ]; then cd .. && eval "mv $currentfolder generator-ms-codeigniter" && cd generator-ms-codeigniter; fi
 
