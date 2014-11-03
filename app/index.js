@@ -56,6 +56,7 @@ var MsCodeigniterGenerator = yeoman.generators.Base.extend({
     app: function () {
       this.src.copy('_package.json', 'package.json');
       this.src.copy('_bower.json', 'bower.json');
+      this.src.copy('_gulpfile.json', 'gulpfile.js');
     },
 
     projectfiles: function () {
